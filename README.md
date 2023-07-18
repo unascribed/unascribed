@@ -9,6 +9,7 @@ Noteworthy projects that are hosted here on GitHub, since having a private profi
 * **[FlexVer](https://github.com/unascribed/FlexVer)** - A SemVer-compatible intuitive comparator for free-form versioning strings as seen in the wild, designed to sort versions like people do. 
 * **[SymbolicControllerDB](https://github.com/unascribed/SymbolicControllerDB)** - The SDL controller DB is how controllers behave. What if we had a database of how they look? 
 * **[unbted](https://github.com/unascribed/unbted)** - Una's NBT Editor - an advanced interactive command-line NBT editor
+* **[Jortage](https://github.com/jortage)** - A project to lighten the load of fediverse instances via shared infrastructure.
 
 Noteworthy projects that are mirrored here, but are primarily on Forgejo:
 * **[NilLoader](https://github.com/unascribed/NilLoader)** - The universally-compatible ultra-light mod loader.
