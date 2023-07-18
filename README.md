@@ -2,7 +2,7 @@ Hi, I'm unascribed, or Una. I've been modding Minecraft for 11 (nearly 12) years
 
 Check out my [personal website](https://unascribed.com) for more.
 
-I'm increasingly using my [Forgejo](https://git.sleeping.town) for new projects. I use GitHub to contribute to others' projects and to ease discovery/contribution for community-focused projects.
+**I mostly use my [Forgejo](https://git.sleeping.town/unascribed) these days.** I use GitHub to contribute to others' projects and to ease discovery/contribution for community-focused projects.
 
 Noteworthy projects that are hosted here on GitHub, since having a private profile removes the pinned repositories (wtf?):
 * **[AsyncSimpleLog](https://github.com/unascribed/AsyncSimpleLog)** - A fast, small, and useful logger implementation for SLF4j. 
