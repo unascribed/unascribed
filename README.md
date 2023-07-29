@@ -4,7 +4,7 @@ Check out my [personal website](https://unascribed.com) for more.
 
 **I mostly use my [Forgejo](https://git.sleeping.town/unascribed) these days.** I use GitHub to contribute to others' projects and to ease discovery/contribution for community-focused projects.
 
-Noteworthy projects that are hosted here on GitHub, since having a private profile removes the pinned repositories (wtf?):
+Noteworthy projects that are hosted here on GitHub, since pinned repositories suck:
 * **[AsyncSimpleLog](https://github.com/unascribed/AsyncSimpleLog)** - A fast, small, and useful logger implementation for SLF4j. 
 * **[FlexVer](https://github.com/unascribed/FlexVer)** - A SemVer-compatible intuitive comparator for free-form versioning strings as seen in the wild, designed to sort versions like people do. 
 * **[SymbolicControllerDB](https://github.com/unascribed/SymbolicControllerDB)** - The SDL controller DB is how controllers behave. What if we had a database of how they look? 
