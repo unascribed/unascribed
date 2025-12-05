@@ -1,8 +1,8 @@
-Hi, I'm unascribed, or Una. I've been modding Minecraft for 11 (nearly 12) years. It's horrifying. When I'm not doing that, I run various services and develop various (mostly game-adjacent) software.
+Hi, we're Exa/exaptations. We've been modding Minecraft for ~14 years. It's horrifying. When not doing that, we run various services and develop various (mostly game-adjacent) software.
 
-Check out my [personal website](https://unascribed.com) for more.
+Check out our [personal website](https://unascribed.com) for more.
 
-**I use my own self-hosted [Forgejo](https://git.sleeping.town/unascribed) these days.**
+**We use our own self-hosted [Forgejo](https://git.sleeping.town/unascribed) these days.**
 
 Assorted notable projects:
 * **[AsyncSimpleLog](https://git.sleeping.town/unascribed/AsyncSimpleLog)** - A fast, small, and useful logger implementation for SLF4j. 
@@ -14,6 +14,6 @@ Assorted notable projects:
 * **[Partyflow](https://git.sleeping.town/unascribed/Partyflow)** - A self-hosted media transcoding service and release manager styled around Bandcamp.
 * **[unbted](https://git.sleeping.town/unascribed/unbted)** - Una's NBT Editor - an advanced interactive command-line NBT editor
 
-Noteworthy stuff I helped with:
+Noteworthy stuff we helped with:
 * **[the Fractureiser malware investigation](https://github.com/trigram-mrp/fractureiser)**
 * **[Voldeloom](https://codeberg.org/CrackedPolishedBlackstoneBricksMC/voldeloom)** - A modern Gradle plugin for old versions of Forge (quat has since entirely rewritten it)
